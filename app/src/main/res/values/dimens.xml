@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 공통 다이얼로그 -->
+    <dimen name="글씨_60PX">15dp</dimen>
+    <dimen name="글씨_50PX">12.50dp</dimen>
+
+    <dimen name="마진_40PX">10dp</dimen>
+    <dimen name="toast_bottom_margin">23.33dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toast_bottom_margin2">60dp</dimen>
+</resources>
