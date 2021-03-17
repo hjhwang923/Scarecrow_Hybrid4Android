@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="color_000000">#000000</color>
-	<color name="color_c8c8c8">#c8c8c8</color>
-	<color name="color_0494B5">#0494B5</color>
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="colorChoiceRight">#38b5e6</color>
+	<color name="colorChoiceMiddle">#29699d</color>
+	<color name="colorChoiceLeft">#555</color>
+
+	<color name="color_000000">#000</color>
+	<color name="color_ffffff">#fff</color>
 	<color name="color_b2000000">#b2000000</color>
-	<color name="color_ffffff">#ffffff</color>
 </resources>
